@@ -1,4 +1,5 @@
 OBJECTIVE
+
 A simple and effective chatbot built with Python and Streamlit that screens resumes based on selected job roles and required skill sets.
 
 FEATURES
