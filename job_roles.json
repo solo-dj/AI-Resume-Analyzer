@@ -1,0 +1,6 @@
+{
+  "Java Developer": ["java", "spring", "hibernate", "rest", "sql"],
+  "Data Analyst": ["excel", "sql", "python", "power bi", "tableau"],
+  "Frontend Developer": ["html", "css", "javascript", "react", "tailwind"],
+  "AI Developer": ["python","javascript","AI tools","machine learning","Algorithms"]
+}
